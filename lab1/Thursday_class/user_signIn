@@ -1,0 +1,39 @@
+<html>
+ <head>
+     <title>FORM</title>
+ </head>  
+ <body>
+     <form>
+         <table>
+             <tr>
+                <td>USERNAME :</td>
+            <td>input type="text" name="" value=""</td>
+             </tr> 
+             <tr>
+                <td>Password</td>
+                <td>input type="password" name="" vaule =""</td>
+             </tr>
+             <tr>
+                <td>Email</td>
+                <td>input type="email" name="" vaule =""</td>
+             </tr>
+             <tr>
+                <td>Phone Number</td>
+                <td>input type="number" name="" vaule =""</td>
+             </tr>
+             <tr>
+                <td>Date of Birth</td>
+                <td>input type="date" name="" vaule =""</td>
+             </tr>
+             <tr>
+                <td>Phone Number</td>
+                <td>input type="number" name="" vaule =""</td>
+             </tr>
+             
+                
+         </table>
+
+     </form>
+ </body> 
+
+</html>
